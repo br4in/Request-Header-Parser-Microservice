@@ -1,0 +1,14 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "br4in",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
